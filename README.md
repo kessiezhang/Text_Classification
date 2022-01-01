@@ -2,7 +2,7 @@
 
 ### Project Goal:
 
-The goal of this project is to compare Supervised and Unsupervised Fraud Detection using Yelp Review data. 
+The goal of this project is to build a Fraud Detection model using Yelp Review data. 
 
 ### Install
 
